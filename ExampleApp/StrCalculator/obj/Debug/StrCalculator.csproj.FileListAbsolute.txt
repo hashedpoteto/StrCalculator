@@ -1,0 +1,5 @@
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\StrCalculator\bin\Debug\StrCalculator.dll
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\StrCalculator\bin\Debug\StrCalculator.pdb
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\StrCalculator\obj\Debug\StrCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\StrCalculator\obj\Debug\StrCalculator.dll
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\StrCalculator\obj\Debug\StrCalculator.pdb

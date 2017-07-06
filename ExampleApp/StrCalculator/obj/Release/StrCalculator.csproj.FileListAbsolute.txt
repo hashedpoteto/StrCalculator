@@ -1,0 +1,4 @@
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\StrCalculator\bin\Release\StrCalculator.dll
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\StrCalculator\bin\Release\StrCalculator.pdb
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\StrCalculator\obj\Release\StrCalculator.dll
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\StrCalculator\obj\Release\StrCalculator.pdb

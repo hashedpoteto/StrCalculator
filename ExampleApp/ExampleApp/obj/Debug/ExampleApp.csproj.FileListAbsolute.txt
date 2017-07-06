@@ -1,0 +1,8 @@
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\obj\Debug\ExampleApp.csprojResolveAssemblyReference.cache
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\bin\Debug\ExampleApp.exe.config
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\bin\Debug\ExampleApp.exe
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\bin\Debug\ExampleApp.pdb
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\bin\Debug\StrCalculator.dll
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\bin\Debug\StrCalculator.pdb
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\obj\Debug\ExampleApp.exe
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\obj\Debug\ExampleApp.pdb
