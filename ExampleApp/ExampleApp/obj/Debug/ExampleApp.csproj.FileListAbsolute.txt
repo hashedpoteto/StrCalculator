@@ -6,3 +6,8 @@ C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\bin\Debug
 C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\bin\Debug\StrCalculator.pdb
 C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\obj\Debug\ExampleApp.exe
 C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\obj\Debug\ExampleApp.pdb
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\bin\Debug\ExampleApp.exe.manifest
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\bin\Debug\ExampleApp.application
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\obj\Debug\ExampleApp.TrustInfo.xml
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\obj\Debug\ExampleApp.exe.manifest
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\obj\Debug\ExampleApp.application

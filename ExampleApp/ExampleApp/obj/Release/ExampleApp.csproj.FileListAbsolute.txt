@@ -6,3 +6,8 @@ C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\bin\Relea
 C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\obj\Release\ExampleApp.csprojResolveAssemblyReference.cache
 C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\obj\Release\ExampleApp.exe
 C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\obj\Release\ExampleApp.pdb
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\bin\Release\ExampleApp.exe.manifest
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\bin\Release\ExampleApp.application
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\obj\Release\ExampleApp.TrustInfo.xml
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\obj\Release\ExampleApp.exe.manifest
+C:\Users\Unifined\Documents\GitHub\StrCalculator\ExampleApp\ExampleApp\obj\Release\ExampleApp.application

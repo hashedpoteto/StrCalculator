@@ -13,7 +13,7 @@ namespace ExampleApp
         static void Main(string[] args)
         {
             StrCalculator StrCalc = new StrCalculator();
-
+            
             while (true)
             {
                 try

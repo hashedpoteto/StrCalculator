@@ -195,7 +195,7 @@ namespace HashedCode
 
         //スペース
         //その文字がスペースかどうか（連なっている場合はすべて移動する）
-        public bool IsSpace(String str, ref int i)
+        bool IsSpace(String str, ref int i)
         {
             //
             if (str[i] == ' ')
@@ -216,7 +216,7 @@ namespace HashedCode
     }
 
     //演算子クラス
-    internal class Marker
+    internal partial class Marker
     {
         public int mark { get; }//演算子の種類
         public int rank { get; }//演算子の優先順位
@@ -241,6 +241,7 @@ namespace HashedCode
         void Clear() { dimension = 0; }
 
         //コンストラクタ
+        //クラスとディメンションを入力
         public Marker(char Mark, int Dime)
         {
             //ディメンション
@@ -268,16 +269,18 @@ namespace HashedCode
                     mark = 4;
                     rank = 2;
                     break;
+                
                 case '^':
                     //指数計算
                     mark = 5;
-                    rank = 3;
+                    rank = 4;
                     break;
                 default:
 
                     break;
             }
         }
+
 
         //演算子による計算
         public double? Calc(double? a, double? b)
